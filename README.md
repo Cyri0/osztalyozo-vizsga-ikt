@@ -2,6 +2,10 @@
 
 **<span style="color:red">Első lépésként forkoljátok le ezt a repository-t. A saját átforkolt változatotokon fogtok dolgozni. Ha kész a feladat, akkor küldjetek egy pull request-et, és akkor én is látni fogom a munkátokat.</span>**
 
+[Fork Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+[Pull Request Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+
 A feladatotok a design mappában található képek alapján, és a public mappában található json felhasználásával elkészíteni a flashcards alkalmazás frontend részét. Egyelőre a json fájllal kell működnie a programnak. A json fájlt fetch vagy axios segítségével olvassátok be.
 A kártyáknak készíts külön React komponenst!
 A kártyák átfordításkor (tehát ha rákattintunk a kártyára amikor kérdés van rajta) animálva kell átfordulnia, amit az alábbi linken megnézhettek hogyan kell:
